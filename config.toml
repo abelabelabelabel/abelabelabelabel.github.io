@@ -1,4 +1,4 @@
-baseURL = 'abelvanoosterwijk.nl'
+baseURL = 'http://localhost:8000/'
 languageCode = 'nl-NL'
 defaultContentLanguage = "nl"
 defaultContentLang = "nl"
