@@ -2,7 +2,7 @@ html {
 	background-color: #1b1b1b;
 	min-height: 100vh;
 	font-family: Cambria,serif;
-	max-width: 70%;
+	max-width: 80%;
 	margin: 0 auto;
 }
 
@@ -45,7 +45,7 @@ blockquote {
 }
 
 main {
-	width: auto;
+	max-width: 60%;
 	padding-bottom: 10%;
 	margin-left: 3em;
 }
@@ -94,5 +94,6 @@ img {
 		padding-bottom: 1em;
 		border-top: grey solid 1px;
 		border-bottom: grey solid 1px;
+		max-width: 100%;
 	}
 }
