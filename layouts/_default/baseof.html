@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+	{{- partial "head.html" . -}}
+	<body>
+		{{- partial "header.html" . -}}
+		<div id="content">
+			{{- partial "contact.html" . }}
+			{{- block "main" . }}{{- end }}
+		</div>
+	</body>
+</html>

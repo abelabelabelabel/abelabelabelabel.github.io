@@ -1,0 +1,11 @@
+{{ define "main" }}
+<main role="main">
+	<h2>Publicaties</h2>
+	<ul>
+	{{ range first 10 .Site.RegularPages }}
+		<li><a class="invisible" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	{{ end }}
+	</ul>
+	<a href="/posts/">See all posts</a>
+</main>
+{{ end }}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abel</title>
+    <link>localhost:8000/</link>
+    <description>Recent content on Abel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-NL</language>
+    <lastBuildDate>Sat, 27 Aug 2022 15:17:05 +0200</lastBuildDate><atom:link href="localhost:8000/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>localhost:8000/posts/my-third-post/</link>
+      <pubDate>Sat, 27 Aug 2022 15:17:05 +0200</pubDate>
+      
+      <guid>localhost:8000/posts/my-third-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu diam arcu. Cras non tortor quis lorem venenatis pharetra quis finibus enim. Pellentesque ullamcorper pharetra est id venenatis. Vestibulum quis tellus tellus. Praesent a sapien at orci tincidunt fringilla. Donec eu libero risus. Ut facilisis justo ipsum, sed pretium augue tincidunt et. Fusce dapibus, nunc nec rutrum rutrum, justo lectus varius ante, non pulvinar ante magna id augue. Proin aliquet molestie eros, a mattis nunc pulvinar ut.</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>localhost:8000/posts/my-second-post/</link>
+      <pubDate>Sat, 27 Aug 2022 15:17:00 +0200</pubDate>
+      
+      <guid>localhost:8000/posts/my-second-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu diam arcu. Cras non tortor quis lorem venenatis pharetra quis finibus enim. Pellentesque ullamcorper pharetra est id venenatis. Vestibulum quis tellus tellus. Praesent a sapien at orci tincidunt fringilla. Donec eu libero risus. Ut facilisis justo ipsum, sed pretium augue tincidunt et. Fusce dapibus, nunc nec rutrum rutrum, justo lectus varius ante, non pulvinar ante magna id augue. Proin aliquet molestie eros, a mattis nunc pulvinar ut.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum Lorem Ipsum Lorem Ipsum</title>
+      <link>localhost:8000/posts/my-first-post/</link>
+      <pubDate>Sat, 27 Aug 2022 14:49:37 +0200</pubDate>
+      
+      <guid>localhost:8000/posts/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu diam arcu. Cras non tortor quis lorem venenatis pharetra quis finibus enim. Pellentesque ullamcorper pharetra est id venenatis. Vestibulum quis tellus tellus. Praesent a sapien at orci tincidunt fringilla. Donec eu libero risus. Ut facilisis justo ipsum, sed pretium augue tincidunt et. Fusce dapibus, nunc nec rutrum rutrum, justo lectus varius ante, non pulvinar ante magna id augue. Proin aliquet molestie eros, a mattis nunc pulvinar ut.</description>
+    </item>
+    
+  </channel>
+</rss>

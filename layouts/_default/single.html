@@ -1,0 +1,7 @@
+{{ define "main" }}
+<main role="main" class="blogpost">
+	<h1>{{ .Title }}</h1>
+	<p class="metadata">{{ time.Format "1 January 2006" .Date }} &#8212; {{ .WordCount }} woorden</p>
+	{{ .Content }}
+</main>
+{{ end }}

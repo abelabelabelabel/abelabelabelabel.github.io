@@ -1,0 +1,5 @@
+baseURL = 'abelvanoosterwijk.nl'
+languageCode = 'nl-NL'
+defaultContentLanguage = "nl"
+defaultContentLang = "nl"
+title = 'Abel'
