@@ -1,7 +1,7 @@
 ---
 title: "My Second Post"
 date: 2022-08-27T15:17:00+02:00
-draft: true
+draft: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu diam arcu. Cras non tortor quis lorem venenatis pharetra quis finibus enim. Pellentesque ullamcorper pharetra est id venenatis. Vestibulum quis tellus tellus. Praesent a sapien at orci tincidunt fringilla. Donec eu libero risus. Ut facilisis justo ipsum, sed pretium augue tincidunt et. Fusce dapibus, nunc nec rutrum rutrum, justo lectus varius ante, non pulvinar ante magna id augue. Proin aliquet molestie eros, a mattis nunc pulvinar ut. Pellentesque sagittis cursus nulla at feugiat. Donec tortor ante, efficitur ac odio et, pretium sodales quam.

@@ -1,7 +1,7 @@
 ---
 title: "Lorem Ipsum Lorem Ipsum Lorem Ipsum"
 date: 2022-08-27T14:49:37+02:00
-draft: true
+draft: false
 abstract: This article is about nothing.
 ---
 
