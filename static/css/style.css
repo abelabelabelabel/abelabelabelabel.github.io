@@ -2,6 +2,8 @@ html {
 	background-color: #1b1b1b;
 	min-height: 100vh;
 	font-family: Cambria,serif;
+	max-width: 70%;
+	margin: 0 auto;
 }
 
 body {
@@ -26,12 +28,26 @@ main {
 }
 
 aside {
+	min-width: fit-content;
 	width: 25%;
 }
 
+/* to make every new paragraph indent */
+/* p {
+	text-indent: 2em;
+	margin: 0.2em;
+} */
+
+blockquote {
+	border-left: 3px solid grey;
+	margin: 1.5em 1em;
+	padding: 0 10px;
+}
 
 main {
-	width: 74%;
+	width: auto;
+	padding-bottom: 10%;
+	margin-left: 3em;
 }
 
 address {
@@ -53,20 +69,30 @@ h4 {
 	margin-bottom: 0.5em;
 }
 
-@media only screen and (max-width: 960px) {
+img {
+	max-width: 80%;
+}
+
+@media only screen and (max-width: 860px) {
 	body {
 		margin-left: 10%;
 		margin-right: 10%;
 		margin-bottom: 10%;
 	}
+
 	#content {
 		display: flex;
 		flex-direction: column-reverse;
 	}
+
 	aside, main {
 		width: fit-content;
 	}
-	.blogpost {
-		border-bottom: white solid 1px;
+
+	main {
+		margin-left: 0;
+		padding-bottom: 1em;
+		border-top: grey solid 1px;
+		border-bottom: grey solid 1px;
 	}
 }

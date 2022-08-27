@@ -4,9 +4,9 @@ date: 2022-08-27T17:34:58+02:00
 draft: false
 ---
 
-# Welkom bij markdown leren!
+## Welkom bij markdown leren!
 
-Dat was een _titel_, en dit is *bold*, ~strikethrough~.
+Dat was een _titel_, en dit is **bold**, ~strikethrough~.
 
 Een nieuwe paragraaf begin je door een witregel ertussen te laten.
 
@@ -19,7 +19,12 @@ footnotes[^voorbeeld]!
 [^voorbeeld]: Zie hier zie hier. Voor lang, indenteer de tekst:
 	dit hoort nog bij de footnote.
 
-Ook kan er wiskunde ($\forall x : \{x \in 1..10\}$) en `code` worden gebruikt.
+`code oftewel monospace`.
+
+```python
+def main():
+	pass
+```
 
 Natuurlijk ook afbeeldingen, zelf gehost of via een linkje:
 

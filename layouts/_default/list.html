@@ -3,7 +3,7 @@
 	<h2>Publicaties</h2>
 	{{ range .Pages }}
 		<article>
-			<h4><a href="{{ .RelPermalink }}">{{ .Title }} ({{ time.Format "1 January 2006" .Date }})</a></h4>
+			<h4><a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Date | time.Format ":date_long" }})</a></h4>
 			{{ if isset .Params "abstract" }}
 				<a class="invisible" href="{{ .Permalink }}">{{ .Params.abstract }}</a>
 			{{ else }}
