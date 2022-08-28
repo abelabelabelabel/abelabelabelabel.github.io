@@ -2,7 +2,8 @@
 title: "Markdown Uitleg"
 date: 2022-08-27T17:34:58+02:00
 draft: false
-abstract: Dit artikel laat de functionaliteit van Markdown zien.
+summary: Dit artikel laat de functionaliteit van Markdown zien.
+toc: true
 ---
 
 ## Welkom bij markdown leren!

@@ -1,7 +1,17 @@
 {{ define "main" }}
 <main role="main" class="blogpost">
 	<h1>{{ .Title }}</h1>
-	<p class="metadata">{{ .Date | time.Format ":date_long" }} &#8212; {{ .WordCount }} woorden</p>
+	<p class="metadata">
+		{{ .Date | time.Format ":date_long" }}
+		&#8212;
+		{{ .WordCount }} woorden
+		&#8212;
+		Leestijd: {{ .ReadingTime }} minuten
+	</p>
+	{{ if .Params.toc }}
+		<h2>Inhoudsopgave</h2>
+		{{ .TableOfContents }}
+	{{ end}}
 	{{ .Content }}
 </main>
 {{ end }}

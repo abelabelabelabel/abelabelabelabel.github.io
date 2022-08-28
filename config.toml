@@ -3,3 +3,4 @@ languageCode = 'nl-NL'
 defaultContentLanguage = "nl"
 defaultContentLang = "nl"
 title = 'Abel'
+canonifyURLs = true
