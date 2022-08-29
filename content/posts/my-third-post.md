@@ -1,5 +1,5 @@
 ---
-title: "My Third Post"
+title: "My third post"
 date: 2022-08-27T15:17:05+02:00
 draft: false
 ---

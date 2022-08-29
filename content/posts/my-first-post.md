@@ -1,5 +1,5 @@
 ---
-title: "Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+title: "Lorem ipsum lorem ipsum lorem ipsum"
 date: 2022-08-27T14:49:37+02:00
 draft: false
 summary: This article is about nothing.

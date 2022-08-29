@@ -1,5 +1,5 @@
 ---
-title: "Markdown Uitleg"
+title: "Markdown uitleg"
 date: 2022-08-27T17:34:58+02:00
 draft: false
 summary: Dit artikel laat de functionaliteit van Markdown zien.
