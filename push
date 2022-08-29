@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+exit_on_error() {
+    exit_code=$1
+    last_command=${@:2}
+    if [ $exit_code -ne 0 ]; then
+        >&2 echo "\"${last_command}\" command failed with exit code ${exit_code}."
+        exit $exit_code
+    fi
+}
+
+hugo_root="$(dirname "$0")"
+
+cd "$hugo_root"; exit_on_error $? !!
+
+git add .; exit_on_error $? !!
+git commit --all --message "./push: new content"; exit_on_error $? !!
+git push origin main; exit_on_error $? !!
+
+echo "New content pushed to GitHub!"

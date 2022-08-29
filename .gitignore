@@ -1,2 +1,4 @@
 .hugo_build.lock
 public/
+/resources/_gen/
+vragen.txt
