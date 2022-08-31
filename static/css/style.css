@@ -16,7 +16,13 @@ body {
 .tagline {
 	font-size: larger;
 	font-style: italic;
+	margin-top: 2px;
 }
+
+.title {
+	margin-bottom: 1px;
+}
+
 
 a {
 	color: inherit;

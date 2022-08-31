@@ -3,9 +3,15 @@
 	<h2>Publicaties</h2>
 	<ul>
 	{{ range first 10 .Site.RegularPages }}
-		<li><a class="invisible" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	<li>
+		<a class="invisible" href='{{ cond (eq .Section "pdfs") .Params.pdfurl .RelPermalink }}'>
+			{{ .Title }}
+			{{ if eq .Section "pdfs" }}[pdf]{{ end }}
+			({{ .Date | time.Format ":date_long" }})
+		</a>
+	</li>
 	{{ end }}
 	</ul>
-	<a href='/posts/'>See all posts</a>
+	<a href='/posts/'>Alle publicaties</a>
 </main>
 {{ end }}

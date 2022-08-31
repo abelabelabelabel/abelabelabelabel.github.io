@@ -1,10 +1,16 @@
 {{ define "main" }}
 <main role="main">
 	<h2>Publicaties</h2>
-	{{ range .Pages }}
+	{{ range .Site.RegularPages }}
 		<article>
-			<h4><a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Date | time.Format ":date_long" }})</a></h4>
-			<a class="invisible" href="{{ .Permalink }}">{{ .Summary }}</a>
+			<a class="invisible" href='{{ cond (eq .Section "pdfs") .Params.pdfurl .RelPermalink }}'>
+				<h4 style="text-decoration: underline">
+					{{ .Title }}
+					{{ if eq .Section "pdfs" }}[pdf]{{ end }}
+					({{ .Date | time.Format ":date_long" }})
+				</h4>
+				{{ .Summary }}
+			</a>
 		</article>
 	{{ end }}
 </main>
