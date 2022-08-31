@@ -3,10 +3,10 @@
 	<h1>{{ .Title }}</h1>
 	<p class="metadata">
 		{{ .Date | time.Format ":date_long" }}
-		&#8212;
+		<!-- &#8212;
 		{{ .WordCount }} woorden
 		&#8212;
-		Leestijd: {{ .ReadingTime }} minuten
+		Leestijd: {{ .ReadingTime }} minuten -->
 	</p>
 	{{ if .Params.toc }}
 		<h2>Inhoudsopgave</h2>

@@ -4,12 +4,11 @@
 	{{ range .Site.RegularPages }}
 		<article>
 			<a class="invisible" href='{{ cond (eq .Section "pdfs") .Params.pdfurl .RelPermalink }}'>
-				<h4 style="text-decoration: underline">
+				<h4>
 					{{ .Title }}
-					{{ if eq .Section "pdfs" }}[pdf]{{ end }}
-					({{ .Date | time.Format ":date_long" }})
+					({{ .Date.Year }})
 				</h4>
-				{{ .Summary }}
+				{{ .Summary | truncate 300 }}
 			</a>
 		</article>
 	{{ end }}

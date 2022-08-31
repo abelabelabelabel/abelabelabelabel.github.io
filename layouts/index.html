@@ -6,7 +6,6 @@
 	<li>
 		<a class="invisible" href='{{ cond (eq .Section "pdfs") .Params.pdfurl .RelPermalink }}'>
 			{{ .Title }}
-			{{ if eq .Section "pdfs" }}[pdf]{{ end }}
 			({{ .Date | time.Format ":date_long" }})
 		</a>
 	</li>
