@@ -6,7 +6,7 @@
 	<li>
 		<a class="invisible" href='{{ cond (eq .Section "pdfs") .Params.pdfurl .RelPermalink }}'>
 			{{ .Title }}
-			({{ .Date | time.Format ":date_long" }})
+			({{ .Date.Year }})
 		</a>
 	</li>
 	{{ end }}
