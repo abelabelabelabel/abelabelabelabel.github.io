@@ -8,7 +8,7 @@ toc: true
 
 ## Welkom bij markdown leren!
 
-Dat was een _titel_, en dit is **bold**, ~strikethrough~.
+Dat was een _titel_, en dit is **bold**.
 
 Een nieuwe paragraaf begin je door een witregel ertussen te laten.
 
@@ -41,10 +41,4 @@ Natuurlijk ook afbeeldingen, zelf gehost of via een linkje:
 
 > of zelfs een belangrijk iemand quoten
 
-<center>This text is centered.</center>
-
-Ook emojis zijn wss gesupport, :thumb:
-
 linkjes naar vorige headings: [kleinere titel](#kleinere-titel)
-
-==highlight maybe?==
