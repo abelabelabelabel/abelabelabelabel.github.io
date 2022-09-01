@@ -13,8 +13,9 @@ hugo_root="$(dirname "$0")"
 
 cd "$hugo_root"; exit_on_error $? 'cd $hugo_root'
 
-git add . >/dev/null 2>&1; exit_on_error $? 'git add'
-git commit --all --message "./push: new content" >/dev/null 2>&1; exit_on_error $? 'git commit'
-git push origin main >/dev/null 2>&1; exit_on_error $? 'git push'
+git pull --commit --no-edit >/dev/null; exit_on_error $? 'git pull'
+git add . >/dev/null; exit_on_error $? 'git add'
+git commit --all --message "./push: new content" >/dev/null; exit_on_error $? 'git commit'
+git push origin main >/dev/null >/dev/null; exit_on_error $? 'git push'
 
 echo "New content pushed to GitHub!"
