@@ -1,6 +1,6 @@
 ---
 title: "Achter de schijn. *Grensgebieden* van Gerald Murnane "
-date: 2021-01-01
+date: 2021-09-24
 draft: false
 toc: false
 summary: Boekrecensie De Reactor
