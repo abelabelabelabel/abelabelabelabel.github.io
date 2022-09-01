@@ -1,9 +1,9 @@
 ---
-title: "Van volksschrijver tot Dichter des Vaderlands. Nationalisme en auteurschap na de oorlog (2021)"
-date: 2022-09-01T14:21:17+02:00
+title: "Van volksschrijver tot Dichter des Vaderlands. Nationalisme en auteurschap na de oorlog"
+date: 2021T14:21:17+02:00
 draft: false
 toc: false
-summary: Masterscriptie
+summary: Masterscriptie Universiteit Utrecht
 ---
 
 This thesis investigates the relationship between Dutch literary authorship and postwar nationalism. Drawing from multiple theories of cultural nationalism and literary authorship, including the work of Joep Leerssen and Pascale Casanova, I argue that the nation state remains a decisive factor in the shaping of modern and contemporary literary authorship. To illustrate this point, this thesis presents two case studies.
