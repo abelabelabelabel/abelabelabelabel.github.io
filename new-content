@@ -13,13 +13,6 @@ hugo_root="$(dirname "$0")"
 
 cd "$hugo_root"; exit_on_error $? "cd hugo root"
 
-read -p 'Type of content [post|pdf]: ' content_type
-
-if [[ "$content_type" != "post" ]] && [[ "$content_type" != "pdf" ]]; then
-	echo "invalid content type"
-	exit 1
-fi
-
 read -p 'Content name: ' contentname
 
 # check if filename would be valid
@@ -28,17 +21,8 @@ if [[ "$contentname" =~ [^a-zA-Z0-9-] ]]; then
 	exit 1
 fi
 
-# give warning if the pdf does not exist yet
-pdfname="$hugo_root"/static/pdf/"$contentname".pdf
-if [[ "$content_type" = "pdf" ]] && [[ ! -f "$pdfname" ]]; then
-	echo
-	echo "Warning! You are creating a pdf post, but the companioning pdf-file does not yet exist:"
-	echo "$hugo_root"/static/pdf/"$contentname".pdf
-fi
-
-
 # run hugo magic
-filename="$hugo_root"/content/"$content_type"s/"$contentname".md
+filename="$hugo_root"/content/publicaties/"$contentname".md
 hugo new "$filename" || exit_on_error $? "hugo new"
 
 echo 'New content file created:' "$filename"

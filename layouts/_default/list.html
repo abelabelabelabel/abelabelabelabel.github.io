@@ -3,7 +3,7 @@
 	<h2>Publicaties</h2>
 	{{ range .Site.RegularPages }}
 		<article>
-			<a class="invisible" href='{{ cond (eq .Section "pdfs") .Params.pdfurl .RelPermalink }}'>
+			<a class="invisible" href='{{ .RelPermalink }}'>
 				<h4>
 					{{ .Title }}
 					({{ .Date.Year }})

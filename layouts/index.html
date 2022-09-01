@@ -4,13 +4,13 @@
 	<ul>
 	{{ range first 10 .Site.RegularPages }}
 	<li>
-		<a class="invisible" href='{{ cond (eq .Section "pdfs") .Params.pdfurl .RelPermalink }}'>
+		<a class="invisible" href='{{ .RelPermalink }}'>
 			{{ .Title }}
 			({{ .Date.Year }})
 		</a>
 	</li>
 	{{ end }}
 	</ul>
-	<a href='/posts/'>Alle publicaties</a>
+	<a href='/publicaties/'>Alle publicaties</a>
 </main>
 {{ end }}
