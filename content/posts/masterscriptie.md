@@ -1,7 +1,7 @@
 ---
-title: "Van volksschrijver tot Dichter des Vaderlands. Nationalisme en auteurschap na de oorlog"
+title: "Van volksschrijver tot Dichter des Vaderlands. Nationalisme en auteurschap na de oorlog (2021)"
 date: 2022-09-01T14:21:17+02:00
-draft: true
+draft: false
 toc: false
 summary: This thesis investigates the relationship between Dutch literary authorship and postwar nationalism. Drawing from multiple theories of cultural nationalism and literary authorship, including the work of Joep Leerssen and Pascale Casanova, I argue that the nation state remains a decisive factor in the shaping of modern and contemporary literary authorship. To illustrate this point, this thesis presents two case studies.
 The first case study applies a posture analysis, as it was introduced by Jérôme Meizoz and later developed by Laurens Ham, on arguably one of the most canonical and controversial authors in Dutch postwar fiction, Gerard Reve (1923-2006). Examining the author’s ironic authorial posture as people’s author (‘volksschrijver’), which is fundamentally unpatriotic and exorbitantly patriotic at once, I argue contrary to Edwin Praat’s thesis on the public authorship of Reve, that Reve both challenges and affirms the Dutch media’s Herderian notion of national authorship.
