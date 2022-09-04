@@ -5,7 +5,7 @@
 		<article>
 			<a class="invisible" href='{{ .RelPermalink }}'>
 				<h4>
-					{{ .Title }}
+					{{ .Title | markdownify }}
 					({{ .Date.Year }})
 				</h4>
 				{{ .Summary | truncate 300 }}

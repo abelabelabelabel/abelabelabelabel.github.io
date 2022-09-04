@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main role="main" class="blogpost">
-	<h1>{{ .Title }}</h1>
+	<h1>{{ .Title | markdownify }}</h1>
 	<p class="metadata">
 		Gepubliceerd in {{ .Date.Year }}
 		<!-- &#8212;
