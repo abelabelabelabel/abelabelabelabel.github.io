@@ -3,7 +3,7 @@
 	<h2>Publicaties</h2>
 	{{ range .Site.RegularPages }}
 		<article>
-			<a class="invisible" href='{{ .RelPermalink }}'>
+			<a class="invisible" href='{{ cond (isset .Params "link") .Params.link .RelPermalink }}'>
 				<h4>
 					{{ .Title | markdownify }}
 					({{ .Date.Year }})
