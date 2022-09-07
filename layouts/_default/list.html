@@ -2,15 +2,15 @@
 <main role="main">
 	<h2>Publicaties</h2>
 	{{ range .Site.RegularPages }}
-		<article>
-			<a class="invisible" href='{{ cond (isset .Params "link") .Params.link .RelPermalink }}'>
-				<h4>
-					{{ .Title | markdownify }}
-					({{ .Date.Year }})
-				</h4>
-				{{ .Summary | truncate 300 }}
-			</a>
-		</article>
+		<a class="invisible" href='{{ cond (isset .Params "link") .Params.link .RelPermalink }}'>
+			<article>
+					<h4>
+						{{ .Title | markdownify }}
+						({{ .Date.Year }})
+					</h4>
+					{{ .Summary | truncate 300 }}
+			</article>
+		</a>
 	{{ end }}
 </main>
 {{ end }}
