@@ -4,7 +4,6 @@ date: 2021-04-06T14:45:57+02:00
 draft: false
 toc: false
 summary: NL-Lab Working Paper 8, KNAW Humanities Cluster
+link: "https://nl-lab.net/wp-content/uploads/2021/06/working-paper-Abel-van-Oosterwijk.pdf"
 ---
-NL-Lab Working Paper 8, KNAW Humanities Cluster
 
-[Lezen](https://nl-lab.net/wp-content/uploads/2021/06/working-paper-Abel-van-Oosterwijk.pdf)
