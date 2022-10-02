@@ -7,7 +7,9 @@ summary: "Lezing Janskerk in Haarlem"
 link:
 ---
 
-De sprekende zwijger. 
+-------
+
+"De sprekende zwijger. 
 Willem van Oranje (1934) en het begin van de Nederlandse geluidsfilm
 
 Lezing Janskerk te Haarlem 3 oktober 2022
@@ -86,11 +88,7 @@ Na de oorlog kreeg Teunissen een celstraf en een verbod opgelegd dat hem voor ee
 
 Ik dank u voor uw aandacht.
 
-[15: einde]
-
-
--------
-
+[15: einde]"
 
 
 
