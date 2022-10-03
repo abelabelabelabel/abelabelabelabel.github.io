@@ -6,7 +6,6 @@ toc: false
 summary: "Lezing Janskerk in Haarlem"
 ---
 
-"[1: inleiding]
 Goedenavond,
 
 Wat leuk om hier vanavond bij jullie in Haarlem te zijn, de stad die in de jaren 10 en 20 van de vorige eeuw met Filmfabriek Hollandia het middelpunt vormde van de productie van de zwijgende speelfilm in Nederland.  Voor het onderwerp van korte lezing moeten wij echter een kleine sprong in tijd en plaats nemen naar het Eindhoven van de vroege jaren 30. Dit zijn de jaren waarin Nederland economisch zwaar getroffen wordt door de beurskrach van 1929, en het facisme in Nederland in opmars is. Maar dit zijn ook de jaren waarin de Nederlandse filmindustrie juist opbloeit dankzij de uitvinding van de geluidsfilm. Nederland schakelt als een van de eerste landen in Europa volledig over naar deze nieuwe filmtechniek.  Het Eindhovense bedrijf Philips speelde daarbij een leidende rol, vooral ten aanzien van de innovatie van beeld- en geluidsapparaturen. Indertijd wilde Philips meetellen op alle nieuwe en veelbelovende gebieden van de elektrotechniek, zoals de radio, de televisie en dus ook de geluidsfilm.  Eind jaren 20 produceerde Philips daarom de Loetafoon, een filmprojector die geluid kon afspelen door een koppeling met een externe grammofoon.
@@ -78,9 +77,7 @@ De motieven die Teunissen hiervoor had worden pas verdacht als we ons realiseren
 
 Na de oorlog kreeg Teunissen een celstraf en een verbod opgelegd dat hem voor een periode van elf jaar verbande uit de filmindustrie. Hiermee was een definitief einde gekomen aan een regisseurscarrière die reeds door de flop van zijn speelfilmdebuut Willem van Oranje tot stilstand was gekomen. Na Willem van Oranje was Teunissen namelijk in de filmindustrie doorgegaan als filmmonteur. Niet onverdienstelijk overigens, want bij 14 van de 37 langspeelfilms die in de jaren 30 in Nederland gemaakt zijn was hij als monteur betrokken. In de jaren 50 probeerde Teunissen met ingezonden brieven bij krantenredacties zijn nalatenschap te zuiveren. Zijn verfilming van het leven van Willem van Oranje is hij dan als een jeugdzonde gaan zien, die door de artistieke restricties en moeizame productieomstandigheden niet het portret van Willem van Oranje had opgeleverd zoals hij het voor ogen had gezien. Teunissen schrijft dat er één ding is waar hij nog wel trots op is. ‘Ik heb in de geschiedenisboekjes de plaats ingenomen van Balthazar Gerards,’ schrijft Teunissen. ‘Want ik heb Willem van Oranje vermoord. Niet hij!’ 
 
-[15: einde]
-
-Dank u wel voor uw aandacht."
+Dank u wel voor uw aandacht.
 
 -------
 
