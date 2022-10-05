@@ -1,21 +1,15 @@
 #!/usr/bin/env bash
 
-exit_on_error() {
-	exit_code=$1
-	last_command=${@:2}
-	if [ $exit_code -ne 0 ]; then
-		>&2 echo "\"${last_command}\" command failed with exit code ${exit_code}."
-		exit $exit_code
-	fi
-}
-
 hugo_root="$(dirname "$0")"
+logfile="$hugo_root"/push.log
 
-cd "$hugo_root"; exit_on_error $? 'cd $hugo_root'
+echo "---------------------------------" >> "$logfile"
 
-git pull --commit --no-edit >/dev/null; exit_on_error $? 'git pull'
-git add . >/dev/null; exit_on_error $? 'git add'
-git commit --all --message "./push: new content" >/dev/null; exit_on_error $? 'git commit'
-git push origin main >/dev/null >/dev/null; exit_on_error $? 'git push'
+cd "$hugo_root" && echo "cd'd into $hugo_root" >> "$logfile"
 
-echo "New content pushed to GitHub!"
+git pull --commit --no-edit &>> "$logfile"
+git add . &>> "$logfile"
+git commit --all --message "./push: new content" &>> "$logfile"
+git push origin main &>> "$logfile"
+
+echo "New content pushed to GitHub!" | tee -a "$logfile"
