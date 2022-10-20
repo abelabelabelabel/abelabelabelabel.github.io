@@ -3,13 +3,13 @@
 hugo_root="$(dirname "$0")"
 logfile="$hugo_root"/push.log
 
-echo "---------------------------------" >> "$logfile"
+echo "---------------------------------" >> "$logfile" 2>&1
 
-cd "$hugo_root" && echo "cd'd into $hugo_root" >> "$logfile"
+cd "$hugo_root" && echo "cd'd into $hugo_root" >> "$logfile" 2>&1
 
-git pull --commit --no-edit &>> "$logfile"
-git add . &>> "$logfile"
-git commit --all --message "./push: new content" &>> "$logfile"
-git push origin main &>> "$logfile"
+git pull --commit --no-edit >> "$logfile" 2>&1
+git add . >> "$logfile" 2>&1
+git commit --all --message "./push: new content" >> "$logfile" 2>&1
+git push origin main >> "$logfile" 2>&1
 
-echo "New content pushed to GitHub!" | tee -a "$logfile"
+echo "New content pushed to GitHub!" | tee -a "$logfile" 2>&1
