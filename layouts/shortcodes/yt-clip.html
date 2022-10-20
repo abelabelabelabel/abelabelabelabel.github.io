@@ -1,0 +1,10 @@
+{{ with .Get 0 }}
+<iframe
+	width="560"
+	height="315"
+	src="https://www.youtube-nocookie.com/embed/{{ . }}"
+	title="YouTube video player"
+	frameborder="0"
+	allow="clipboard-write; encrypted-media; picture-in-picture"
+	allowfullscreen></iframe>
+{{ end }}
