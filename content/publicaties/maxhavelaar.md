@@ -3,7 +3,7 @@ title: De leugen die verschijnt in het kleed van de waarheid. *Max Havelaar* (19
 date: 2022-12-27
 draft: false
 toc: false
-summary: Artikel *Indische Letteren* (nog te verschijnen)
+summary: Artikel *Indische Letteren* (verschijnt voorjaar 2023)
 link:
 ---
 
