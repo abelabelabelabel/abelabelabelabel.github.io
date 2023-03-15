@@ -1,5 +1,5 @@
 ---
-title: "Public Enemies by Michel Houellebecq and Bernard-Henri Lévy"
+title: "*Public Enemies* by Michel Houellebecq and Bernard-Henri Lévy"
 date: 2017-03-01
 draft: false
 toc: false
