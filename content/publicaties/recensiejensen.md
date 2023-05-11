@@ -1,9 +1,9 @@
 ---
 title: Wie is er nog bang voor het water? *Wij en het water* van Lotte Jensen
-date: 2022-12-27
+date: 2023-06-24
 draft: false
 toc: false
-summary: Boekrecensie De Reactor (verschijnt voorjaar 2023)
+summary: Boekrecensie De Reactor
 link: 
 ---
 
