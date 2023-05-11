@@ -1,7 +1,7 @@
 ---
 title: "De sprekende zwijger. *Willem van Oranje* (1934) en het begin van de Nederlandse geluidsfilm"
 date: 2022-10-03
-draft: false
+draft: true
 toc: false
 summary: "Lezing Janskerk in Haarlem"
 ---
