@@ -4,7 +4,7 @@ title: "De sprekende zwijger.
 date: 2023-03-15
 draft: false
 toc: false
-summary: Artikel *TMG Journal for Media History*
+summary: Artikel voor *TMG Journal for Media History*
 link: https://tmgonline.nl/articles/10.18146/tmg.862
 ---
 

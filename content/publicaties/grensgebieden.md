@@ -7,6 +7,6 @@ summary: "Recensie De Reactor"
 link: "https://www.dereactor.org/teksten/grensgebieden-van-gerald-murnane"
 
 ---
-Boekrecensie De Reactor
+Recensie voor De Reactor
 
 [Lezen](https://www.dereactor.org/teksten/grensgebieden-van-gerald-murnane)
