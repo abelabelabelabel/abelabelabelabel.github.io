@@ -3,7 +3,7 @@ title: "Achter de schijn. *Grensgebieden* van Gerald Murnane"
 date: 2021-09-24
 draft: false
 toc: false
-summary: "Recensie De Reactor"
+summary: "Recensie voor De Reactor"
 link: "https://www.dereactor.org/teksten/grensgebieden-van-gerald-murnane"
 
 ---
