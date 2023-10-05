@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+exit_on_error() {
+	exit_code=$1
+	last_command=${@:2}
+	if [ $exit_code -ne 0 ]; then
+		>&2 echo "\"${last_command}\" command failed with exit code ${exit_code}."
+		exit $exit_code
+	fi
+}
+
+hugo_root="$(dirname "$0")"
+
+cd "$hugo_root"; exit_on_error $? "cd hugo root"
+
+read -p 'Content name: ' contentname
+
+# check if filename would be valid
+if [[ "$contentname" =~ [^a-zA-Z0-9-] ]]; then
+	echo "invalid content name"
+	exit 1
+fi
+
+# run hugo magic
+filename="$hugo_root"/content/publicaties/"$contentname".md
+hugo new "$filename" || exit_on_error $? "hugo new"
+
+echo 'New content file created:' "$filename"
