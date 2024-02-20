@@ -4,7 +4,7 @@ title: "‘Een hele grootse, royale, katholieke film.’
 date: 2023-06-12
 draft: fale
 toc: false
-summary: Artikel (peer-reviewed) voor *Internationale Neerlandistiek* (verschijnt februari 2024)
-link:
+summary: Artikel (peer-reviewed) voor *Internationale Neerlandistiek*
+link: https://www.aup-online.com/content/journals/10.5117/IN2023.3.003.OOST
 ---
 
