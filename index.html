@@ -3,11 +3,13 @@ layout: default
 ---
 <h2>Publicaties</h2>
 
-{% for publicatie in site.data.publicaties %}
+{% assign shown_publications = site.data.publicaties | where: "hide", false | sort: "date" | reverse %}
+
+{% for publicatie in shown_publications %}
 <article>
 	<a class="invisible" href="{{ publicatie.url }}">
-		<h4>{{ publicatie.hoofdtekst }}</h4>
-		<p>{{ publicatie.ondertekst }}</p>
+		<h4>{{ publicatie.hoofdtekst | markdownify }}</h4>
+		<p>{{ publicatie.ondertekst | markdownify }}</p>
 	</a>
 </article>
 {% endfor %}
