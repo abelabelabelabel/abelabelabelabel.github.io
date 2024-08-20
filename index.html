@@ -8,8 +8,8 @@ layout: default
 {% for publicatie in shown_publications %}
 <article>
 	<a class="invisible" href="{{ publicatie.url }}">
-		<h4>{{ publicatie.hoofdtekst | markdownify }}</h4>
-		<p>{{ publicatie.ondertekst | markdownify }}</p>
+		<h4>{{ publicatie.hoofdtekst | markdownify | remove: '<p>' | remove: '</p>' }} ({{ publicatie.date | date: "%Y" }})</h4>
+		<p>{{ publicatie.ondertekst | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 	</a>
 </article>
 {% endfor %}
