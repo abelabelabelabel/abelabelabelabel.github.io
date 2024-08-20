@@ -1,6 +1,3 @@
-.hugo_build.lock
-public/
-/resources/_gen/
-vragen.txt
-bewaren/
-push.log
+Gemfile.lock
+_old
+_site

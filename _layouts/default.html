@@ -1,0 +1,31 @@
+<html lang="nl">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="{{ site.title }}">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/apple-touch-icon.png">
+	<link rel="icon" type="image/icon" href="/media/favicon.ico">
+	<link rel="mask-icon" href="/media/safari-pinned-tab.svg" color="#1b1b1b">
+	<meta name="theme-color" content="1b1b1b">
+	<title>Abel</title>
+</head>
+
+<body>
+	<header>
+		<h1>
+			<a class="invisible" href="/">
+				{{ site.title }}
+			</a>
+		</h1>
+		<p class="email">
+			<a href="mailto:{{ site.mail }}">{{ site.mail }}</a>
+		</p>
+	</header>
+	<main>
+		{{ content }}
+	</main>
+</body>
+
+</html>

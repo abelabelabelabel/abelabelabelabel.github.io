@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h2>Publicaties</h2>
+
+{% for publicatie in site.data.publicaties %}
+<article>
+	<a class="invisible" href="{{ publicatie.url }}">
+		<h4>{{ publicatie.hoofdtekst }}</h4>
+		<p>{{ publicatie.ondertekst }}</p>
+	</a>
+</article>
+{% endfor %}
