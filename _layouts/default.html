@@ -9,7 +9,7 @@
 	<link rel="icon" type="image/icon" href="/media/favicon.ico">
 	<link rel="mask-icon" href="/media/safari-pinned-tab.svg" color="#1b1b1b">
 	<meta name="theme-color" content="1b1b1b">
-	<title>Abel</title>
+	<title>{% if page.title %}{{ page.title }} |{% endif %}{{ site.title }}</title>
 </head>
 
 <body>
@@ -24,6 +24,29 @@
 		</p>
 	</header>
 	<main>
+		{% if page.title %}
+		{{ page.title | prepend:'## ' | markdownify }}
+		{% endif %}
+		{% if page.date %}
+		<p>{% assign m = page.date | date: "%-m" %}
+			{{ page.date | date: "%-d" }}
+			{% case m %}
+			{% when '1' %}januari
+			{% when '2' %}februari
+			{% when '3' %}maart
+			{% when '4' %}april
+			{% when '5' %}mei
+			{% when '6' %}juni
+			{% when '7' %}juli
+			{% when '8' %}augustus
+			{% when '9' %}september
+			{% when '10' %}oktober
+			{% when '11' %}november
+			{% when '12' %}december
+			{% endcase %}
+			{{ page.date | date: "%Y" }}</p>
+		{% endif %}
+
 		{{ content }}
 	</main>
 </body>

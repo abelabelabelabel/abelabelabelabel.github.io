@@ -1,2 +1,12 @@
 title: Abel van Oosterwijk
 mail: contact@abelvanoosterwijk.com
+collections:
+  publicaties:
+    output: true
+    permalink: /:collection/:title/
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
