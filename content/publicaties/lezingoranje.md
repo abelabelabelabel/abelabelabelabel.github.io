@@ -1,36 +1,33 @@
 ---
 title: "De sprekende zwijger. *Willem van Oranje* (1934) en het begin van de Nederlandse geluidsfilm"
 date: 2022-10-03
-draft: true
-toc: false
-summary: "Lezing Janskerk in Haarlem"
 ---
 
 Goedenavond,
 
 Wat leuk om hier vanavond bij jullie in Haarlem te zijn, de stad die in de jaren 10 en 20 van de vorige eeuw met Filmfabriek Hollandia het middelpunt vormde van de productie van de zwijgende speelfilm in Nederland.[^1] Voor het onderwerp van korte lezing moeten wij echter een kleine sprong in tijd en plaats nemen naar het Eindhoven van de vroege jaren 30. Dit zijn de jaren waarin Nederland economisch zwaar getroffen wordt door de beurskrach van 1929, en het facisme in Nederland in opmars is. Maar dit zijn ook de jaren waarin de Nederlandse filmindustrie juist opbloeit dankzij de uitvinding van de geluidsfilm. Nederland schakelt als een van de eerste landen in Europa volledig over naar deze nieuwe filmtechniek.[^2] Het Eindhovense bedrijf Philips speelde daarbij een leidende rol, vooral ten aanzien van de innovatie van beeld- en geluidsapparaturen. Indertijd wilde Philips meetellen op alle nieuwe en veelbelovende gebieden van de elektrotechniek, zoals de radio, de televisie en dus ook de geluidsfilm.[^3] Eind jaren 20 produceerde Philips daarom de Loetafoon, een filmprojector die geluid kon afspelen door een koppeling met een externe grammofoon.
 
-![](/img/wvo1.png)
+![](/media/wvo1.png)
 
 In 1933 kwam Philips met een eigen geluidsprojector op de markt, de Philisonor, die internationaal goed verkocht werd. Het geluidsgedeelte van deze projector zat verwerkt in een compacte kast die als een zuil onder de projector was geplaatst en daardoor een stuk makkelijker te bedienen was.[^4] 
 
 Vanaf 1930 waagde Philips zich zelfs voor even ook aan de productie van films. Zo kon Philips enerzijds uitvindingen in de praktijk brengen, en anderzijds was het een manier om goodwill te kweken en te investeren in de Nederlandse filmindustrie.
 
-![](/img/wvo2.png)
+![](/media/wvo2.png)
 
 Aan de rand van Eindhoven aan deze Oirschotsedijk op wat later complex Strijp T zou gaan heten, richtte Philips hiervoor twee fabriekshalachtige filmstudio’s in. 
 
-![](/img/wvo3.png)
+![](/media/wvo3.png)
 
 Opnames in en rondom deze filmstudio’s, zo kunt u zich voorstellen, wekten heel wat belangstelling bij de lokale bevolking en pers. Zij noemden deze studio’s ‘Phillywood’, een bijnaam die enigszins tekenend is voor de hoge verwachtingen die Philips aan het begin van de jaren 30 in de Nederlandse filmindustrie schiep.[^5] 
 
 De eerste en tevens laatste speelfilm die in de filmstudio’s van Philips is opgenomen is de film *Willem van Oranje* uit 1934. 
 
-![](/img/wvo4.png)
+![](/media/wvo4.png)
 
 In de filmgeschiedenis markeert deze film het begin van de Nederlandse speelfilm met geluid. *Willem van Oranje* is weliswaar niet de eerste opgenomen lange Nederlandse speelfilm met geluid, want dat was *Terra Nova* uit 1932, maar wel de eerste daadwerkelijk in Nederland vertoonde lange speelfilm met geluid.[^6] U moet zich voorstellen dat de vertoning van deze film voor vele Nederlanders een bijzondere gebeurtenis was. Voor het eerst zagen zij een speelfilm waarin hun moedertaal gesproken werd. Daarmee werd aan de brede praktische behoefte voldaan om Nederlandstalige geluidsfilms in de bioscopen te krijgen. Lang niet alle Nederlanders waren hun vreemde talen namelijk machtig genoeg om buitenlandse films te kunnen volgen, wat voorheen bij zwijgende films geen probleem was. Hulpmiddelen als ondertiteling en nasynchronisatie, oftewel *dubbing*, die dit probleem nu verhelpen, bestonden in de vroege dagen van de geluidsfilm nog niet.
 
-![](/img/wvo5.png)
+![](/media/wvo5.png)
 
 De film *Willem van Oranje*, die ongeveer een speelduur heeft van een uur, heeft voor het begin van de Nederlandse geluidsfilm denk ik op een uiterst symbolische manier het startsignaal gegeven. Een nationaler onderwerp had men niet kunnen nemen. De aanleiding van de film was dan ook het Willem van Oranje-herdenkingsjaar van 1933, het jaar waarin de 400ste geboortedag van de prins op monumentale wijze werd herdacht. In dat jaar werden er ontelbare herdenkingsactiviteiten omtrent Oranje ontplooid, waaronder talloze toneelvoorstellingen, historische tentoonstellingen, voordrachten en lezingen, optochten en schoolfeesten, enzovoorts. Ook was een oranjegezind drietal van mening dat er een film moest komen.[^7] Dit drietal bestond uit architect Jan Wils, journalist en schrijver Jan Feith en Jan C. W. Polak, die samen het Comité van Initiatief voor de vervaardiging van de Willem van Oranje Film vormden. 
 
@@ -38,11 +35,11 @@ De totstandkoming van de film *Willem van Oranje* viel zodoende samen met een ti
 
 Het huis van Oranje-Nassau was tot dan toe al eerder een aantal filmhistorische primeurs ten deel gevallen. Zo was een van de eerste films die de Haarlemse Filmfabriek Hollandia in 1913 produceerde getiteld *Oranje en Nederland*, een statische, tableau vivant-achtige verbeelding van de verbondenheid van het koningshuis met het vaderland.[^9] De film *Willem van Oranje* kan gezien worden als een voortzetting van deze filmtraditie, in die zin dat het een even houterige aaneenschakeling van historische momenten uit de vaderlandse geschiedenis is. De film *Willem van Oranje* begint bij de geboorte van prins en eindigt bij zijn dood. In de film speelt acteur Cor van der Lugt Melsert een heldhaftige en rechtvaardige Willem van Oranje, die tegen religieuze onverdraagzaamheid strijdt en opkomt voor de onafhankelijkheid van het Nederlandse volk. In de traditie van vroege oranjefilms is ook de film *Willem van Oranje* statisch en toneelmatig van opzet. Echter is de film ook gewoon op veel punten slecht gemaakt. Zo is het scenario weinig spannend, is de film niet zonder anachronismen, maakt veel van het acteer- en monteerwerk een nogal klunzige indruk, en is het geluid zodanig slecht dat hoge tonen als ‘s’- en ‘f’-klanken als schelle ruis klinken. Daartegenover staat dat de historische decors van architect Henk Wegerif indrukwekkend zijn.[^10]
 
-![](/img/wvo6.png)
+![](/media/wvo6.png)
 
 Wegerif was bij de filmproductie onder het alias R.J. Drayer tevens werkzaam als medescenarist en assitent-regisseur. 
 
-![](/img/wvo7.png)
+![](/media/wvo7.png)
 
 Vanwege de opzet en gebreken van *Willem van Oranje* is het niet gek dat de film het destijds in de bioscopen lang en breed aflegde tegen de in hetzelfde jaar uitgebrachte geluidsremake van *De Jantjes* (1934), een vermakelijke, op het populaire volkstoneel van Herman Bouber gebaseerde Jordaanfilm. Vergeleken bij het enorme succes van *De Jantjes* was *Willem van Oranje* een flop, die in artistiek en filmtechnisch opzicht ook gewoon minder goed gemaakt was. Willem van Oranje werd in totaal slechts tien keer vertoond, terwijl *De Jantjes* een bioscooproulatie had van 203 vertoningen.[^11] De mislukking van *Willem van Oranje* betekende meteen ook het einde van Phillywood. Van het verloren filmbudget van 40 duizend gulden, dat omgerekend naar de huidige inflatie zo’n 400 duizend euro bedroeg, was het aandeel van Philips 12 duizend gulden. De rest van het budget was gedekt door het filmcomité en door de regisseur van de film. Het filmcomité had slechts 28 duizend gulden aan sponsorgelden bij elkaar weten te krijgen, zodat de regisseur Jan Teunissen én onbetaald moest werken én 10 duizend gulden van zijn eigen geld moest inleggen.   
 
@@ -60,17 +57,17 @@ Wat het gebruik van close-ups betreft spant de laatste scène van de film de kro
 
 Los van de lichtpunten die ik heb willen aanstippen is er bij de film *Willem van Oranje* ook heel wat duisternis waar te nemen als we kijken naar de context van de film. Ik verwees al naar het oranje-nationalisme van de jaren 30, maar de film heeft ook banden met minder schuldige vormen van het Nederlands nationalisme. De producenten van *Willem van Oranje* gingen er prat op dat hun film een Nederlandse film was, die in een Nederlandse filmstudio, met Nederlands kapitaal, met Nederlandse acteurs, naar een Nederlands scenario, en door een Nederlandse regisseur gemaakt was. De producenten stelden nadrukkelijk dat ze hiermee aan hun nationale plicht hadden voldaan, en een nationale film hadden gemaakt die een ‘uiting was van verschillende nationale gevoelens’.[^14]  
 
-![](/img/wvo11.png)
+![](/media/wvo11.png)
 
 Dat er ook een Hongaarse cameraman, Akos Farkas, een Franse geluidstechnicus, Charles Métain, en een Russische grimeur, A. Polonsky, bij de productie van de film waren betrokken, was een ongemakkelijke, verzwegen waarheid. Tegelijkertijd is dit kenmerkend voor de manier waarop buitenlanders werden behandeld die in de jaren 30 werkzaam waren in de Nederlandse filmindustrie. Zij kregen het steeds zwaarder te verduren naarmate de nadruk op de eigen taal en cultuur kwam te liggen, en de angst voor vreemde talen en invloeden de overhand nam. 
 
 Het mag niet verbazen dat de film *Willem van Oranje* dan ook een inspiratiebron vormde voor het nationaalsocialisme. Op de avond dat de film voor het eerst in Theater Tuschinski in Amsterdam te zien was, verstoorde een protest van de fascistische vereniging De Princevlag de vertoning. Op het podium verscheen een trommelende, marcherende, met de prinsenvlag wapperende groep fascisten, waarna hun aanvoerder, de fascist Nestelroy, een speech afstak. Nestelroy prees de film aan als ware het een katalysator in het bewustwordingproces van de ‘noodzakelijkheid van nationale eenheid’, om vervolgens in fascistische retoriek te vervallen. Het protest werd besloten met het Wilhelmus, dat onder begeleiding van het filmorkest uit volle borst werd meegezongen. Ook bezoekers die niets met het protest te maken hadden stonden op en brachten de fascistengroet.[^15] 
 
-![](/img/wvo12.png)
+![](/media/wvo12.png)
 
 In dit verband wil ik afsluiten door nog iets te zeggen over de regisseur van de film, Jan Teunissen. Teunissen, die van goede komaf was en de kneepjes van het vak op zijn zestiende had geleerd bij de Haarlemse Filmfabriek Hollandia, had zijn aanstelling voor *Willem van Oranje* te danken aan de goede reputatie die hij aan het begin van de jaren 30 in de Nederlandse filmindustrie had opgebouwd. Als lid van de Nederlandsche Filmliga stond hij bekend als een avantgardist die grensverleggend werk had verricht met zijn korte geluidsdocumentaires *Pierement* uit 1931 over de Amsterdamse Jordaan, en *Vrijdagavond / Sjaboss* uit 1932 over de Jodenbuurt in Amsterdam tijdens de sabbat.[^16] 
 
-![](/img/wvo13.png)
+![](/media/wvo13.png)
 
 De motieven die Teunissen hiervoor had worden pas verdacht als we ons realiseren dat Teunissen een antisemiet was die zich met zijn gezin aansloot bij de NSB na de Duitse inval in 1940. Volgens Teunissen was het de schuld van de joden dat zijn doorbraak in de filmwereld was uitgebleven.[^17] Teunissen werd door de Duitsers aangesteld als Leider van de Filmgilde van de Kultuurkamer. Ook werd hij benoemd tot hoofd van de Dienst Film van de Propagandadienst van de Nederlandse SS.[^18] Daarmee gold Teunissen tijdens de bezetting als de machtigste man van de Nederlandse filmwereld, wat in feite betekende dat hij een marionet van de bezetter was. Teunissen regisseerde in deze tijd een aantal antisemitische propagandafilms. Voor een van deze films hergebruikte hij zelfs beelden van de documentaire die hij in 1932 over de sabbat had gemaakt.    
 

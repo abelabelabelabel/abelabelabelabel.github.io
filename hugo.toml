@@ -1,6 +1,6 @@
-baseURL = 'http://localhost:1313/'
 languageCode = 'nl-NL'
 defaultContentLanguage = "nl"
 defaultContentLang = "nl"
-title = 'Abel'
+title = 'Abel van Oosterwijk'
 canonifyURLs = true
+disableKinds = ['section', 'taxonomy']

@@ -1,12 +1,14 @@
 {{ define "main" }}
-<main role="main" class="blogpost">
-	<h1>{{ .Title | markdownify }}</h1>
+<main class="blogpost">
+	<h2>{{ .Title | markdownify }}</h2>
 	<p class="metadata">
+	{{ if isSet page.Params "date" }}
 		{{ .Date | time.Format "Monday 2 January 2006" | humanize }}
 		<!-- &#8212;
 		{{ .WordCount }} woorden
 		&#8212;
 		Leestijd: {{ .ReadingTime }} minuten -->
+	{{ end }}
 	</p>
 	{{ if .Params.toc }}
 		<h2>Inhoudsopgave</h2>

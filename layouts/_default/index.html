@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main>
+	<h2>Publicaties</h2>
+
+	{{ range sort (where .Site.Data.publicaties "hide" false) "date" "desc" }}
+	<article>
+		<a class="invisible" href='{{ .link }}'>
+			<h4>{{ .hoofdtekst | markdownify }} ({{ .date | time.Format "2006" }})</h4>
+			<p>{{ .ondertekst | markdownify }}</p>
+		</a>
+	</article>
+	{{ end }}
+</main>
+{{ end }}
