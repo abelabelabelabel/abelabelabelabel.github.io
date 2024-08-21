@@ -1,23 +1,28 @@
 ## Bestanden in deze repository
 
 ```
-_data/publicaties.yml       # lijst van publicaties
-_layouts/default.html       # structuur van elke webpagina
-css/style.css               # opmaak van elke webpagina
-media/                      # map om alle media in te zetten
-_publicaties/               # pagina's / posts op je website
-404.html                    # voor als iemand een ongeldige url invoert
-CNAME                       # naam van je website
-Gemfile                     # onbelangrijk
-Gemfile.lock                # onbelangrijk
-_config.yml                 # hier staat de website titel (je naam) en mailadres
-index.html                  # de structuur van de homepagina
+.
+├── README.md               # deze uitleg
+├── content                 #
+│   ├── 404.md              # voor ongeldige urls
+│   ├── media               # map voor afbeeldingen etc.
+│   └── publicaties         # map voor pagina's / posts op de website
+├── data                    #
+│   └── publicaties.yml     # lijst van publicaties, zie hieronder
+├── hugo.toml               # globale configuratie
+├── layouts                 #
+│   ├── _default            # structuren van pagina's
+│   └── shortcodes          #
+└── static                  #
+    ├── CNAME               # url van de website
+    └── css                 #
+        └── style.css       # vormgeving van de website
 ```
 
 Site is gemaakt met [Hugo](https://gohugio.io). Elke keer als er een
 bestand verandert hier op GitHub, wordt de website opnieuw _gebouwd_.
 
-## Publicaties aan lijst toevoegen
+## Publicaties aan lijst toevoegen: `data/publicaties.yml`
 
 Zie de [GitHub
 documentatie](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)
@@ -41,14 +46,14 @@ op deze website in de `/content/publicaties/` map. Als het bestand
 dubbele aanhalingstekens bij de `hoofdtekst`, `ondertekst` en `link` zijn
 belangrijk! Anders kan je geen `:` gebruiken in de teksten.
 
-## Tekstpagina aan website toevoegen
+## Tekstpagina aan website toevoegen: `content/publicaties/`
 
 Zie de [GitHub
 documentatie](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository)
 over hoe je een bestand toevoegd aan de repository. Om een bestand te
 verwijderen, Google "GitHub delete repository file".
 
-Zoals hierboven al beschreven doe je dat in de map `/publicaties/`, als
+Zoals hierboven al beschreven doe je dat in de map `/content/publicaties/`, als
 bestandsnaam met enkel letters, cijfers en `-`. De bestandsextensie is `.md`.
 Begin elk bestand met het volgende:
 
