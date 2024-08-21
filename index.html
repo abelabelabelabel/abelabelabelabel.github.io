@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 <h2>Publicaties</h2>
 
@@ -7,8 +6,13 @@ layout: default
 
 {% for publicatie in shown_publications %}
 <article>
-	<a class="invisible" href="{{ publicatie.url }}">
-		<h4>{{ publicatie.hoofdtekst | markdownify | remove: '<p>' | remove: '</p>' }} ({{ publicatie.date | date: "%Y" }})</h4>
+	<a class="invisible" href="{{ publicatie.link }}">
+		<h4>
+			{{ publicatie.hoofdtekst | markdownify | remove: '<p>' | remove: '</p>' }}
+			{% if publicatie.date %}
+			({{ publicatie.date | date: "%Y" }})
+			{% endif %}
+		</h4>
 		<p>{{ publicatie.ondertekst | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 	</a>
 </article>
