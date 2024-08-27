@@ -2,7 +2,7 @@
 <main>
 	<h2>Publicaties</h2>
 
-	{{ range sort (where .Site.Data.publicaties "hide" false) "date" "desc" }}
+	{{ range sort (where .Site.Data.publicaties "hidden" false) "date" "desc" }}
 	<article>
 		<a class="invisible" href='{{ .link }}'>
 			<h4>{{ .hoofdtekst | markdownify }} ({{ .date | time.Format "2006" }})</h4>
