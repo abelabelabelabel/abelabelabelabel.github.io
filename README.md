@@ -31,7 +31,8 @@ over hoe je een bestand aan kan passen in de browser.
 In het bestand `data/publicaties.yml` staat een lijst van al je publicaties.
 Elk nieuw onderdeel begint met een streep op het begin van de regel, gevolgd
 door een spatie en dan de naam van het veld. Alle andere velden staan op de
-regels eronder, die allemaal met twee spaties beginnen. Voorbeeld:
+regels eronder, die allemaal met twee spaties beginnen. Voorbeeld (kan je
+copy-pasten):
 
 ```yml
 - hoofdtekst: "De 'titel' van het artikel"
@@ -53,9 +54,12 @@ documentatie](https://docs.github.com/en/repositories/working-with-files/managin
 over hoe je een bestand toevoegd aan de repository. Om een bestand te
 verwijderen, Google "GitHub delete repository file".
 
-Zoals hierboven al beschreven doe je dat in de map `/content/publicaties/`, als
+Zoals hierboven al beschreven doe je dat in de map `content/publicaties/`, als
 bestandsnaam met enkel letters, cijfers en `-`. De bestandsextensie is `.md`.
-Begin elk bestand met het volgende:
+
+> [!IMPORTANT]
+>
+> Begin elk bestand met het volgende (copy-paste):
 
 ```md
 ---
@@ -70,3 +74,8 @@ Om media toe te voegen aan de pagina's: voeg het bestand toe in de `/content/med
 map, en verwijs er op deze manier naar: `![voorbeeld
 diagram](/media/diagram.jpg)`. Urls werken zonder het uitroepteken:
 `[YouTube](https://youtube.com)`. Meer tips: Google op "markdown uitleg"
+
+> [!IMPORTANT]
+>
+> Vergeet niet een link naar je nieuwe tekstpagina toe te voegen aan
+> `data/publicaties.yml`!
