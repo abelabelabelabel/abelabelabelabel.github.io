@@ -5,7 +5,8 @@
 	{{ range sort (where .Site.Data.publicaties "hidden" false) "date" "desc" }}
 	<article>
 		<a class="invisible" href='{{ .link }}'>
-			<h4>{{ .hoofdtekst | markdownify }} ({{ .date | time.Format "2006" }})</h4>
+			{{ $year := .date | time.Format "2006" }}
+			<h4>{{ .hoofdtekst | markdownify }} (<time datetime="{{ .date }}">{{ $year }}</time>)</h4>
 			<p>{{ .ondertekst | markdownify }}</p>
 		</a>
 	</article>
