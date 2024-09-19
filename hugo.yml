@@ -1,0 +1,12 @@
+baseURL: https://abelvanoosterwijk.com
+title: Abel van Oosterwijk
+params:
+  description: Publicatielijst van Abel
+  email: contact@abelvanoosterwijk.com
+
+languageCode: nl-NL
+defaultContentLanguage: nl
+
+disableKinds:
+  - section
+  - taxonomy

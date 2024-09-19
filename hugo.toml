@@ -1,6 +1,0 @@
-languageCode = 'nl-NL'
-defaultContentLanguage = "nl"
-defaultContentLang = "nl"
-title = 'Abel van Oosterwijk'
-canonifyURLs = true
-disableKinds = ['section', 'taxonomy']
