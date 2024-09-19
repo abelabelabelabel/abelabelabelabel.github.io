@@ -5,7 +5,9 @@
 	<meta charset="utf-8">
 	<meta name="description" content="{{ .Site.Title }}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="/css/style.css">
+	{{ with resources.Get "style.css" }}
+	<link rel="stylesheet" href="{{ .RelPermalink }}">
+	{{ end }}
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/media/apple-touch-icon.png">
 	<link rel="icon" type="image/icon" href="/media/favicon.ico">
