@@ -2,7 +2,7 @@
 <main>
 	<h2>Publicaties</h2>
 
-	{{ range sort (where .Site.Data.publicaties "hidden" false) "date" "desc" }}
+	{{ range sort (where site.Data.publicaties "hidden" false) "date" "desc" }}
 	<article>
 		<a class="invisible" href='{{ .link }}'>
 			{{ $year := .date | time.Format "2006" }}
