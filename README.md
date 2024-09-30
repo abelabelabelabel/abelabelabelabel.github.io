@@ -5,18 +5,16 @@
 ├── README.md               # deze uitleg
 ├── content                 #
 │   ├── 404.md              # voor ongeldige urls
-│   ├── media               # map voor afbeeldingen etc.
-│   └── publicaties         # map voor pagina's / posts op de website
+│   ├── media/              # map voor afbeeldingen etc.
+│   └── publicaties/        # map voor pagina's / posts op de website
 ├── data                    #
 │   └── publicaties.yml     # lijst van publicaties, zie hieronder
 ├── hugo.toml               # globale configuratie
 ├── layouts                 #
-│   ├── _default            # structuren van pagina's
-│   └── shortcodes          #
-└── static                  #
-    ├── CNAME               # url van de website
-    └── css                 #
-        └── style.css       # vormgeving van de website
+│   ├── _default/           # structuren van pagina's
+│   └── shortcodes/         #
+└── assets                  #
+    └── style.css           # vormgeving van de website
 ```
 
 Site is gemaakt met [Hugo](https://gohugio.io). Elke keer als er een
@@ -35,8 +33,8 @@ regels eronder, die allemaal met twee spaties beginnen. Voorbeeld (kan je
 copy-pasten):
 
 ```yml
-- hoofdtekst: "De 'titel' van het artikel"
-  ondertekst: "De subtitel"
+- title: "De 'titel' van het artikel"
+  subtitle: "De ondertekst"
   date: 2024-08-21
   link: "/publicaties/lezingoranje/"
 ```
@@ -44,7 +42,7 @@ copy-pasten):
 De link kan dus een url naar een andere website zijn, maar ook naar een artikel
 op deze website in de `/content/publicaties/` map. Als het bestand
 `/content/publicaties/lezingoranje.md` heet, is de url `/publicaties/lezingoranje/`. De
-dubbele aanhalingstekens bij de `hoofdtekst`, `ondertekst` en `link` zijn
+dubbele aanhalingstekens bij de `title`, `subtitle` en `link` zijn
 belangrijk! Anders kan je geen `:` gebruiken in de teksten.
 
 ## Tekstpagina aan website toevoegen: `content/publicaties/`

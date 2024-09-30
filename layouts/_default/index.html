@@ -6,8 +6,8 @@
 	<article>
 		<a class="invisible" href='{{ .link }}'>
 			{{ $year := .date | time.Format "2006" }}
-			<h4>{{ .hoofdtekst | markdownify }} (<time datetime="{{ .date }}">{{ $year }}</time>)</h4>
-			<p>{{ .ondertekst | markdownify }}</p>
+			<h4>{{ .title | markdownify }} (<time datetime="{{ .date }}">{{ $year }}</time>)</h4>
+			<p>{{ .description | markdownify }}</p>
 		</a>
 	</article>
 	{{ end }}
